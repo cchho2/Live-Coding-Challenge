@@ -5,3 +5,6 @@
 
 ### Link to Part 2: https://editor.p5js.org/cchho2/full/9EKYZngON
 ### Link to Part 2 Edit: https://editor.p5js.org/cchho2/sketches/9EKYZngON
+
+### Link to Refractored Version: https://editor.p5js.org/cchho2/full/iZr_TMAIL
+### Link to Refractored Version Edit: https://editor.p5js.org/cchho2/sketches/iZr_TMAIL
